@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Harsha Vardhan 👋</h1>
 
 <p align="center">
-  🚀 CSE Student (AIML) | 🤖 Robotics & AI Enthusiast | 🧠 Passionate Problem Solver
+  🚀 CSE Student (AIML) | AI Enthusiast | 🧠 Passionate Problem Solver
 </p>
 
 ---
