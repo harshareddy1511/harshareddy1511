@@ -67,8 +67,8 @@ Advanced visual system using **CLAHE** to enhance image contrast — evaluated v
 
 ### 📫 Connect With Me
 
-Reach me at: [uppukrishnakoushik2004@gmail.com](mailto:harshareddyvardhan15112003@gmail.com)  
-LinkedIn: [krishna-koushik-uppu](https://www.linkedin.com/in/harsha-vardhan-reddy-mallela/)
+Reach me at: [harshareddyvardhan15112003@gmail.com](mailto:harshareddyvardhan15112003@gmail.com)  
+LinkedIn: [Harsha Vardhan Reddy Mallela](https://www.linkedin.com/in/harsha-vardhan-reddy-mallela/)
 
 
 ---
